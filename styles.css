@@ -1,0 +1,62 @@
+body {
+    background-color:rgb(140, 162, 170);
+    color: rgb(49, 49, 49);
+    font-family: "Montserrat", sans-serif;
+}
+
+.img-logo {
+    width: 7rem;
+    height: 7rem;
+    padding: 0;
+}
+
+.footer-img {
+    height: 30px;
+    margin-right: 6px;
+    vertical-align: bottom;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-display {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2vh;
+}
+
+.h2-img {
+    border-radius: 50%;
+    width: 30rem;
+    height: auto;
+}
+.contact-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card {
+    margin-right: 0;
+    margin-left: 0;
+    padding: 0.5vw;
+}
+.container-servicii {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    padding: 2rem;
+}
+.carousel,
+.carousel-inner,
+.carousel-item,
+.carousel-item img {
+    height: 80vh;
+    object-fit: cover;
+}
+.h2-sectiuni {
+    margin-left: 15vh;
+}
+h1 {
+    color: rgb(49, 49, 49);
+}
